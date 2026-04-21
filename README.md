@@ -144,4 +144,4 @@ Key reusable components:
 
 ## License
 
-MIT — use freely for learning and reference.
+ Apache License.
